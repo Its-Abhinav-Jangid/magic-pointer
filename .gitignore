@@ -3,6 +3,7 @@
 !/.gitignore
 !/LICENSE
 !/README.md
+!/AGENTS.md
 !/magic-pointer.wh.cpp
 !/assets/
 /assets/*
